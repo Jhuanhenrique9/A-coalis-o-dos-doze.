@@ -1,0 +1,8 @@
+_pycache_/
+venv/
+build/
+dist/
+baixar_bgm.py
+audio.py
+*.ico
+*.bat
